@@ -1,0 +1,7 @@
+pandas
+mistralai
+python-dotenv
+scikit-learn
+tenacity
+tqdm
+tabulate
